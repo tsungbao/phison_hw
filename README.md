@@ -7,14 +7,14 @@ Ubuntu 22.04 LTS
 `xterm`: `sudo apt-get -y install xterm`
 
 ## Executable
-`src/build/main`
+`build/main`
 
 ## Build process
-If running `src/build/main` doesn't work, please build the program own your own.
+If running `build/main` doesn't work, please build the program own your own.
 
-1. In `src`, run `cmake -S . -B ./build`. 
-2. In `src/build`, run `make`.
-3. Executable `src/build/main` is created.
+1. Run `cmake -S . -B ./build`. 
+2. In `build/`, run `make`.
+3. Executable `build/main` is created.
 
 # Demo
 
@@ -32,8 +32,8 @@ Please refer to `phison_hw_screencast.webm`
                                         |
                     print_msg   <-fork  |
 (print_msg's stdout)    |               |
-        xterm           |               |
-          |   <-fork    |               |
+        xterm  <-fork   |               |
+          |             |               |
           |             |               |
           |  <-redirect |               |
           |    stdout   |               |
