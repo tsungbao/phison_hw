@@ -1,0 +1,15 @@
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/build/CMakeFiles/main.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/build/CMakeFiles/print_msg.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/build/CMakeFiles/edit_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/build/CMakeFiles/rebuild_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/comm/build/CMakeFiles/client.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/comm/build/CMakeFiles/server.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/comm/build/CMakeFiles/send_recv_fd.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/comm/build/CMakeFiles/edit_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/comm/build/CMakeFiles/rebuild_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/terminal/build/CMakeFiles/terminal.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/terminal/build/CMakeFiles/edit_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/terminal/build/CMakeFiles/rebuild_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/elevator/build/CMakeFiles/elevator.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/elevator/build/CMakeFiles/edit_cache.dir
+/media/tsungbao/琮1/files/Interview/Interview 2/群聯/竹南/src/elevator/build/CMakeFiles/rebuild_cache.dir
